@@ -11,7 +11,9 @@ import SwiftUI
 struct TaskTimeApp_SwiftUI_SwiftData_InteractiveWidgetsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
-        }
+            NavigationStack {
+                ListScreen()
+            }
+        }.modelContainer(for: [TaskTime.self])
     }
 }
