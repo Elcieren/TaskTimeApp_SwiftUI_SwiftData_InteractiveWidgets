@@ -21,7 +21,6 @@ struct ListScreen: View {
                 } label: {
                     Text("Ekle")
                 }
-
             }
         }.sheet(isPresented: $isAddTaskTimePresented) {
             NavigationStack {
