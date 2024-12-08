@@ -1,5 +1,5 @@
 ## TaskTimeApp_SwiftUI_SwiftData_InteractiveWidgets
-| Uygulama Ici Kullanim | Kaydetme && Silme && Duzenleme|
+| Uygulama İci Kullanım | Kaydetme && Silme && Düzenleme|
 |---------|---------|
 | ![Video 1](https://github.com/user-attachments/assets/3a8ccbbb-cff3-44cb-9289-e946d367f7f3) | ![Video 2](https://github.com/user-attachments/assets/0b5414a5-edae-4965-a1f3-6537f84b8190) | 
 
